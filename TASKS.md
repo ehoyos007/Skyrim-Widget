@@ -30,7 +30,7 @@
 - [ ] Lock Screen widgets (circular + rectangular)
 - [ ] StandBy mode widget
 - [ ] TimelineProvider with random rotation (4-hour refresh)
-- [ ] IntentConfiguration for category filter
+- [ ] AppIntentConfiguration for category filter
 - [ ] Deep link: widget tap → quote detail view
 
 ## Phase 3: Companion App
