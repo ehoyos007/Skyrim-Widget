@@ -308,3 +308,40 @@ All screens verified on simulator. Next: begin Phase 5 polish (Dynamic Type, Voi
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
 Phase 5 done. Next: Phase 6 (App Store Prep) or performance profiling.
 ```
+
+---
+
+### Session 6 — Feb 16, 2026
+**Focus**: Phase 6 — App Store Preparation (text assets + GitHub Pages)
+
+**Completed:**
+- Created `AppStore/` directory with 3 submission-ready files:
+  - `AppStoreMetadata.md` — App name, subtitle (30 chars), keywords (100 chars), full description, promo text, category (Entertainment), age rating (4+), What's New, review notes
+  - `PrivacyPolicy.html` — Hostable dark-themed privacy policy covering zero data collection, no network access, no third-party SDKs, local-only notifications
+  - `ReviewNotes.md` — Detailed App Review notes with fan-project IP disclaimer, content sourcing (UESP Wiki), testing instructions, technical summary
+- Set up `docs/` directory for GitHub Pages:
+  - `docs/index.html` — Landing page with links to privacy policy and GitHub repo
+  - `docs/privacy.html` — Privacy policy (copy of AppStore version)
+- Made repo public (`ehoyos007/Skyrim-Widget`)
+- Enabled GitHub Pages serving from `docs/` on `main` branch
+- **Privacy policy live at**: https://ehoyos007.github.io/Skyrim-Widget/privacy.html
+- **Landing page live at**: https://ehoyos007.github.io/Skyrim-Widget/
+- Updated TASKS.md — Phase 6 now 3/6 complete
+
+**Remaining (all require Xcode / App Store Connect):**
+- Phase 5: Performance profiling with Instruments (widget memory, battery)
+- Phase 6: App Store screenshots (all device sizes)
+- Phase 6: TestFlight beta distribution (Archive → Upload → Add testers)
+- Phase 6: App Store submission (fill metadata, upload screenshots, submit)
+- 304 quotes manual accuracy review
+
+**Where we left off:**
+- Phases 0–5 nearly complete (5/6, performance profiling remains)
+- Phase 6 is 3/6 complete (text assets done, screenshots + TestFlight + submission remain)
+- All remaining work is in Xcode and App Store Connect
+
+**To resume next session:**
+```
+Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
+Text assets done. Next: screenshots, TestFlight archive, App Store submission.
+```
