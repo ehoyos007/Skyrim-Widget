@@ -153,8 +153,36 @@ Coordination: foundation built first (shared models), then notified widgets + co
 - Begin Phase 5: Polish & Accessibility (Dynamic Type, VoiceOver, contrast audit)
 - Manual review of 304 quotes for accuracy and quality
 
+---
+
+### Session 3 — Feb 16, 2026
+**Focus**: Complete the Xcode project.pbxproj and achieve first successful build
+
+**Completed:**
+- Rewrote `project.pbxproj` from partial (5 build files) to complete (49 build files)
+  - 40 PBXFileReference entries for all Swift files, resources, and products
+  - 7 shared files compiled into both App and Widget targets
+  - 21 app-only + 10 widget-only files with correct target membership
+  - 4 new PBXGroup subgroups (Home, Quotes, Settings, Themes under Features)
+  - All previously empty groups populated with their children
+- Created `ShoutsOfSkyrim.xcscheme` (shared scheme for building)
+- Added `AppIcon.appiconset` and `AccentColor.colorset` to Assets.xcassets
+- Fixed `TabBarView.swift` — replaced iOS 18 `Tab` API with iOS 17-compatible `tabItem`/`.tag`
+- **BUILD SUCCEEDED** — both App and Widget Extension targets compile cleanly
+- Created GitHub repo and pushed: https://github.com/ehoyos007/Skyrim-Widget
+
+**Key Fix:** TabBarView used `Tab(_:systemImage:value:content:)` which requires iOS 18+. Replaced with `.tabItem { Label() }` + `.tag()` pattern for iOS 17 compatibility.
+
+**Status**: All 38 Swift files compile. Project builds successfully on simulator.
+
+**Where we left off:**
+- Phases 0–4 complete (all code written and compiling)
+- Phase 5 (Polish & Accessibility) not started
+- Phase 6 (App Store Prep) not started
+- 304 quotes in seed JSON — not yet manually reviewed for accuracy
+
 **To resume next session:**
 ```
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
-All Swift code is written. Next: open in Xcode, create project file, first build.
+Project builds. Next: run on simulator, test flows, begin Phase 5 polish.
 ```

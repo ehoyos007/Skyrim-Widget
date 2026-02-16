@@ -48,6 +48,13 @@
 - [x] User-configurable notification time
 - [x] Notification tap → open quote detail (via deep link)
 
+## Phase 4.5: Project Integration
+- [x] Rewrite project.pbxproj with all 38 files and correct target membership
+- [x] Create Xcode scheme
+- [x] Fix iOS 17 compatibility issues (TabBarView)
+- [x] Achieve first successful build (both targets)
+- [x] Push to GitHub
+
 ## Phase 5: Polish & Accessibility
 - [ ] Custom SF Symbol icons for NPC races/categories
 - [ ] Dynamic Type support
