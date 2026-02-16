@@ -54,6 +54,10 @@
 - [x] Fix iOS 17 compatibility issues (TabBarView)
 - [x] Achieve first successful build (both targets)
 - [x] Push to GitHub
+- [x] Add widget NSExtension Info.plist (fix simulator install)
+- [x] Register `shoutsOfSkyrim://` URL scheme (fix deep links)
+- [x] Fix Home tab race condition (use @Query instead of manual fetch)
+- [x] Full simulator smoke test — all 4 tabs verified
 
 ## Phase 5: Polish & Accessibility
 - [ ] Custom SF Symbol icons for NPC races/categories

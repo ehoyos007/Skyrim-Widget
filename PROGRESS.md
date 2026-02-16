@@ -186,3 +186,42 @@ Coordination: foundation built first (shared models), then notified widgets + co
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
 Project builds. Next: run on simulator, test flows, begin Phase 5 polish.
 ```
+
+---
+
+### Session 4 — Feb 16, 2026
+**Focus**: First simulator run, smoke test all screens, fix runtime bugs
+
+**Completed:**
+- Built and installed app on iPhone 17 Pro simulator (iOS 26.2)
+- **Fixed 3 bugs discovered during testing:**
+  1. **Widget extension install failure** — `NSExtension` dictionary missing from widget Info.plist. Created `ShoutsOfSkyrimWidget/Info.plist` with `NSExtensionPointIdentifier = com.apple.widgetkit-extension`. Added `INFOPLIST_FILE` to widget build settings (Debug + Release).
+  2. **URL scheme not registered** — Deep links (`shoutsOfSkyrim://quote/<uuid>`) failed with error -10814. Created `ShoutsOfSkyrim/Info.plist` with `CFBundleURLTypes` and `CFBundleURLSchemes`. Added `INFOPLIST_FILE` to app build settings.
+  3. **Home tab race condition** — `Total Quotes: 0` on first launch because `HomeViewModel.loadStats()` in `onAppear` fired before async seed completed. Replaced manual ViewModel with SwiftData `@Query` properties that auto-update reactively.
+- Updated `project.pbxproj` with both new Info.plist file references and group entries
+- **Smoke-tested all 4 tabs on simulator:**
+  - Home: 304 quotes counted, Whiterun theme applied, widget preview renders
+  - Quotes: Card stack with category filter chips, swipe hints, Guard quote visible
+  - Quote Detail: Full metadata (quote, NPC, race, location, hold), favorite button
+  - Themes: All 4 theme cards in 2x2 grid with color swatches and mini previews
+  - Settings: Notification toggle, version 1.0, UESP link, legal disclaimer
+- Deep link URL scheme confirmed working (system confirmation dialog shown)
+- No crashes in system logs — clean runtime
+
+**Key Learnings:**
+- Widget extensions MUST have `NSExtension.NSExtensionPointIdentifier` in Info.plist, even with `GENERATE_INFOPLIST_FILE = YES`
+- URL schemes require a manual Info.plist — `GENERATE_INFOPLIST_FILE` doesn't support `CFBundleURLTypes` via INFOPLIST_KEY
+- SwiftData `@Query` is preferred over manual fetches for reactive UI — avoids race conditions with async seed operations
+- AppleScript `click at {x, y}` works for simulator interaction; CGEvent does not (permissions issue)
+
+**Where we left off:**
+- Phases 0–4.5 fully complete and verified on simulator
+- Phase 5 (Polish & Accessibility) not started
+- Phase 6 (App Store Prep) not started
+- 304 quotes in seed JSON — not yet manually reviewed for accuracy
+
+**To resume next session:**
+```
+Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
+All screens verified on simulator. Next: begin Phase 5 polish (Dynamic Type, VoiceOver, contrast, Reduce Motion).
+```

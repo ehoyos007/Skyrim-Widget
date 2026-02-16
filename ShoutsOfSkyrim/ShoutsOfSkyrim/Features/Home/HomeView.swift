@@ -4,7 +4,8 @@ import SwiftData
 struct HomeView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(ThemeManager.self) private var themeManager
-    @State private var viewModel = HomeViewModel()
+    @Query private var allQuotes: [Quote]
+    @Query(filter: #Predicate<Quote> { $0.isFavorite }) private var favoriteQuotes: [Quote]
 
     var body: some View {
         let theme = themeManager.current
@@ -21,9 +22,6 @@ struct HomeView: View {
             .background(theme.bg)
             .navigationTitle("Shouts of Skyrim")
             .toolbarColorScheme(.dark, for: .navigationBar)
-        }
-        .onAppear {
-            viewModel.loadStats(modelContext: modelContext)
         }
     }
 
@@ -68,13 +66,13 @@ struct HomeView: View {
         HStack(spacing: 16) {
             statCard(
                 title: "Total Quotes",
-                value: "\(viewModel.totalQuotes)",
+                value: "\(allQuotes.count)",
                 icon: "book.fill",
                 theme: theme
             )
             statCard(
                 title: "Favorites",
-                value: "\(viewModel.favoriteCount)",
+                value: "\(favoriteQuotes.count)",
                 icon: "heart.fill",
                 theme: theme
             )

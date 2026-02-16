@@ -127,6 +127,9 @@
 		/* Shared Extensions */
 		B0000030 /* Color+Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Theme.swift"; sourceTree = "<group>"; };
 
+		/* App - Info.plist */
+		B1000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+
 		/* App - App/ */
 		B1000001 /* ShoutsOfSkyrimApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoutsOfSkyrimApp.swift; sourceTree = "<group>"; };
 		B1000002 /* NotificationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationDelegate.swift; sourceTree = "<group>"; };
@@ -172,6 +175,7 @@
 		B1000021 /* quotes_seed.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quotes_seed.json; sourceTree = "<group>"; };
 
 		/* Widget Extension */
+		B2000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B2000001 /* ShoutsOfSkyrimWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoutsOfSkyrimWidgetBundle.swift; sourceTree = "<group>"; };
 		B2000002 /* ShoutsOfSkyrimWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoutsOfSkyrimWidget.swift; sourceTree = "<group>"; };
 
@@ -278,6 +282,7 @@
 		G1000000 /* ShoutsOfSkyrim */ = {
 			isa = PBXGroup;
 			children = (
+				B1000000 /* Info.plist */,
 				G1000001 /* App */,
 				G1000002 /* Features */,
 				G1000003 /* Components */,
@@ -399,6 +404,7 @@
 		G2000000 /* ShoutsOfSkyrimWidget */ = {
 			isa = PBXGroup;
 			children = (
+				B2000000 /* Info.plist */,
 				B2000001 /* ShoutsOfSkyrimWidgetBundle.swift */,
 				B2000002 /* ShoutsOfSkyrimWidget.swift */,
 				G2000001 /* Provider */,
@@ -730,6 +736,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShoutsOfSkyrim/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Shouts of Skyrim";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -764,6 +771,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShoutsOfSkyrim/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Shouts of Skyrim";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -796,6 +804,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShoutsOfSkyrimWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Shouts Widget";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
@@ -825,6 +834,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShoutsOfSkyrimWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Shouts Widget";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
