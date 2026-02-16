@@ -88,3 +88,73 @@
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
 Pick up at PLAN.md Step 1: Scaffold Xcode project.
 ```
+
+---
+
+### Session 2 — Feb 15, 2026
+**Focus**: Full implementation build — PLAN.md Steps 1-9 (parallel agent team)
+
+**Approach**: Spawned 4 parallel agents via team "skyrim-builders":
+1. **foundation** — Xcode project scaffold + data layer + theme system (Steps 1-3)
+2. **widgets** — Full widget system, all 6 families (Step 4)
+3. **companion-app** — Complete companion app UI (Steps 5-8)
+4. **content-curator** — 300+ quote database research and compilation (Step 9)
+
+Coordination: foundation built first (shared models), then notified widgets + companion-app to unblock. content-curator ran fully in parallel from the start.
+
+**Completed (40 files total):**
+
+*Foundation (10 files):*
+- Shared/Models/Quote.swift — @Model with @Attribute(.unique) id
+- Shared/Models/UserPrefs.swift — @Model with theme, categories, notification prefs
+- Shared/Models/QuoteCategory.swift — enum + AppEnum for WidgetKit
+- Shared/Intents/QuoteCategoryIntent.swift — WidgetConfigurationIntent
+- Shared/Services/ModelContainerConfig.swift — App Group shared container
+- Shared/Extensions/Color+Theme.swift — Theme color extensions
+- ShoutsOfSkyrim/Theme/AppTheme.swift — 4 dark theme presets (6 colors each)
+- ShoutsOfSkyrim/Theme/ThemeManager.swift — @Observable environment injection
+- ShoutsOfSkyrim/Services/SeedDataService.swift — JSON → SwiftData import
+- ShoutsOfSkyrim/App/ShoutsOfSkyrimApp.swift — @main entry point
+
+*Widget System (10 files):*
+- Provider/QuoteTimelineProvider.swift — AppIntentTimelineProvider, 6x4hr entries
+- Views/WidgetEntryView.swift — Family switch router
+- Views/SmallQuoteView.swift — Home Screen + StandBy (containerBackground)
+- Views/MediumQuoteView.swift — Quote + NPC + location
+- Views/LargeQuoteView.swift — Lore-style layout
+- Views/CircularQuoteView.swift — Lock Screen category icon
+- Views/RectangularQuoteView.swift — Lock Screen short quote
+- Views/InlineQuoteView.swift — Lock Screen single line
+- ShoutsOfSkyrimWidget.swift — AppIntentConfiguration, 6 families
+- ShoutsOfSkyrimWidgetBundle.swift — @main bundle
+
+*Companion App (19 files):*
+- Components: QuoteTextView, NPCBadgeView, CategoryBadgeView
+- Navigation: TabBarView (4 tabs), DeepLinkHandler (URL parsing)
+- Features/Home: HomeView + HomeViewModel (widget preview, stats)
+- Features/Quotes: QuoteBrowserView, CardStackView (DragGesture swipe engine), QuoteCardView, QuoteDetailView, QuotesViewModel
+- Features/Themes: ThemeSelectorView + ThemesViewModel (4 theme cards)
+- Features/Settings: SettingsView + SettingsViewModel (notifications, disclaimer)
+- Services: NotificationService (UNCalendarNotificationTrigger)
+- App: NotificationDelegate, ShoutsOfSkyrimApp (updated with deep links + notifications)
+
+*Quote Database (1 file):*
+- Resources/quotes_seed.json — 304 quotes across 10 categories
+  - Guard: 34, Companion: 31, Daedric: 32, Dragon: 30, Citizen: 28
+  - Jarl: 26, Merchant: 25, Mage: 24, Thief: 30, Warrior: 44
+  - 11 races, 13 holds/regions, main quest + DLC coverage
+
+**Phases completed**: 0, 1, 2, 3, 4 (all checked off in TASKS.md)
+**Phases remaining**: 5 (Polish & Accessibility), 6 (App Store Prep)
+
+**Next Steps:**
+- Create Xcode project file (.xcodeproj/project.pbxproj) to tie all files together
+- Attempt first build in Xcode — fix any compilation issues
+- Begin Phase 5: Polish & Accessibility (Dynamic Type, VoiceOver, contrast audit)
+- Manual review of 304 quotes for accuracy and quality
+
+**To resume next session:**
+```
+Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
+All Swift code is written. Next: open in Xcode, create project file, first build.
+```

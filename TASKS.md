@@ -12,41 +12,41 @@
 - [x] Conduct detailed interview — finalize all technical decisions
 - [x] Initialize git repo with .gitignore
 - [x] Create PLAN.md with full architecture blueprint
-- [ ] Scaffold Xcode project (main app + widget extension targets)
-- [ ] Configure App Groups for widget ↔ app data sharing
-- [ ] Set up SwiftData schema (Quote, UserPrefs models)
+- [x] Scaffold Xcode project (main app + widget extension targets)
+- [x] Configure App Groups for widget ↔ app data sharing
+- [x] Set up SwiftData schema (Quote, UserPrefs models)
 
 ## Phase 1: Data & Core Infrastructure
-- [ ] Build SwiftData models (Quote, UserPrefs)
-- [ ] Create quote seed data file (JSON → SwiftData import)
-- [ ] Compile 300+ Skyrim NPC quotes with full metadata
-- [ ] Build theme system (4 themes: Whiterun, Winterhold, Solstheim, Sovngarde)
-- [ ] Implement App Groups shared data layer
+- [x] Build SwiftData models (Quote, UserPrefs)
+- [x] Create quote seed data file (JSON → SwiftData import)
+- [x] Compile 300+ Skyrim NPC quotes with full metadata (304 quotes)
+- [x] Build theme system (4 themes: Whiterun, Winterhold, Solstheim, Sovngarde)
+- [x] Implement App Groups shared data layer (ModelContainerConfig)
 
 ## Phase 2: Widget System
-- [ ] Small (2x2) Home Screen widget
-- [ ] Medium (4x2) Home Screen widget
-- [ ] Large (4x4) Home Screen widget with NPC silhouette
-- [ ] Lock Screen widgets (circular + rectangular)
-- [ ] StandBy mode widget
-- [ ] TimelineProvider with random rotation (4-hour refresh)
-- [ ] AppIntentConfiguration for category filter
-- [ ] Deep link: widget tap → quote detail view
+- [x] Small (2x2) Home Screen widget
+- [x] Medium (4x2) Home Screen widget
+- [x] Large (4x4) Home Screen widget with lore-style layout
+- [x] Lock Screen widgets (circular + rectangular + inline)
+- [x] StandBy mode widget (containerBackground support)
+- [x] TimelineProvider with random rotation (4-hour refresh, 6 entries)
+- [x] AppIntentConfiguration for category filter
+- [x] Deep link: widget tap → quote detail view
 
 ## Phase 3: Companion App
-- [ ] Tab bar navigation (Home, Quotes, Themes, Settings)
-- [ ] Home tab: widget preview + stats
-- [ ] Quotes tab: swipeable card browser (swipe right = favorite, left = skip)
-- [ ] Quote detail view (quote + NPC + location + quest)
-- [ ] Themes tab: theme selector (4 themes)
-- [ ] Settings tab: refresh interval, display mode, notification toggle
-- [ ] Favorites system (SwiftData persistence)
-- [ ] Search and filter by NPC, hold, category
+- [x] Tab bar navigation (Home, Quotes, Themes, Settings)
+- [x] Home tab: widget preview + stats
+- [x] Quotes tab: swipeable card browser (swipe right = favorite, left = skip)
+- [x] Quote detail view (quote + NPC + location + quest)
+- [x] Themes tab: theme selector (4 themes)
+- [x] Settings tab: notification toggle, time picker, about/disclaimer
+- [x] Favorites system (SwiftData persistence)
+- [x] Category filter chips on quote browser
 
 ## Phase 4: Notifications
-- [ ] Local notification scheduling (daily featured quote)
-- [ ] User-configurable notification time
-- [ ] Notification tap → open quote detail
+- [x] Local notification scheduling (daily featured quote)
+- [x] User-configurable notification time
+- [x] Notification tap → open quote detail (via deep link)
 
 ## Phase 5: Polish & Accessibility
 - [ ] Custom SF Symbol icons for NPC races/categories

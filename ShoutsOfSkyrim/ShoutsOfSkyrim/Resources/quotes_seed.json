@@ -1,0 +1,2738 @@
+[
+  {
+    "text": "I used to be an adventurer like you, then I took an arrow in the knee.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Let me guess... someone stole your sweetroll.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "No lollygaggin'.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Wait... I know you.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "My cousin's out fighting dragons, and what do I get? Guard duty.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "I need to ask you to stop. That... shouting... is making people nervous.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Disrespect the law, and you disrespect me.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "You see those warriors from Hammerfell? They've got curved swords. Curved. Swords.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Gotta keep my eyes open. Damn dragons could swoop down at any time.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Watch the skies, traveler.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "They say Ulfric Stormcloak murdered the High King... with his Voice! Shouted him apart!",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "The gods gave you two hands, and you use them both for your weapon. I can respect that.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Keep your hands to yourself, sneak thief.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Psst. Hey, I know who you are. Hail Sithis!",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "I know Thieves Guild armor when I see it. You're not fooling anyone.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Destruction magic's fine, just don't go burning down any buildings.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Hail, Companion.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Iron sword, huh? What are you killing, butterflies?",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Heard about you and your honeyed words...",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "By Ysmir, you did it. You killed a dragon.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Fancy robes. You a wizard or something?",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "I'd be a lot warmer and a lot happier with a bellyful of mead.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "There's been talk amongst the guards. That you are... Dragonborn.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Ugh. That mead's gone right through me.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Favor the bow, eh? I'm a sword man, myself.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Is that... fur? Coming out of your ears?",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Citizen.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Everything's in order.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Heard they're reforming the Dawnguard. Vampire hunters or something, in the old fort near Riften.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Got to thinking... maybe I'm the Dragonborn, and I just don't know it yet.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "I am sworn to carry your burdens.",
+    "npcName": "Lydia",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Honor to you, my Thane.",
+    "npcName": "Lydia",
+    "npcRace": "Nord",
+    "location": "Breezehome",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "I've got your back.",
+    "npcName": "Lydia",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "This must be that beautiful Skyrim weather I've always heard about.",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "I think my father really died a long time ago. This was just... the end of something else.",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Castle Volkihar",
+    "hold": "Haafingar",
+    "category": "Companion",
+    "questContext": "Kindred Judgment"
+  },
+  {
+    "text": "Hey, watch it. That sun thing is not as fun as you might think.",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "That's... complicated. And I'm not totally sure if I can trust you.",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Dimhollow Crypt",
+    "hold": "The Pale",
+    "category": "Companion",
+    "questContext": "Awakening"
+  },
+  {
+    "text": "J'zargo is ready for more adventure.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "J'zargo hopes to find things that will make him a more powerful mage. Hopefully small things that fit inside pockets.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Khajiit guards your back.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Let's kill someone.",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Cicero is at your service, oh great and powerful Listener!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Dawnstar Sanctuary",
+    "hold": "The Pale",
+    "category": "Companion",
+    "questContext": "Dark Brotherhood"
+  },
+  {
+    "text": "Does it involve sneaking and stabbing? Ooh, please say yes!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Crazy? Cicero? That's... madness...",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "I'm not a man. I'm a weapon in human form. Just unsheathe me and point me at the enemy.",
+    "npcName": "Stenvar",
+    "npcRace": "Nord",
+    "location": "Candlehearth Hall",
+    "hold": "Eastmarch",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "These sands are cold, but Khajiit feels warmness from your presence.",
+    "npcName": "Kharjo",
+    "npcRace": "Khajiit",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "I am your sword and your shield.",
+    "npcName": "Lydia",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "You're a true friend, you know that?",
+    "npcName": "Mjoll the Lioness",
+    "npcRace": "Nord",
+    "location": "Riften",
+    "hold": "The Rift",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "There's a nip in the air. Cold won't be good for my crops. Never is.",
+    "npcName": "Erik the Slayer",
+    "npcRace": "Nord",
+    "location": "Rorikstead",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Just say the word and I'll sharpen my blade.",
+    "npcName": "Uthgerd the Unbroken",
+    "npcRace": "Nord",
+    "location": "The Bannered Mare",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "My ancestors are smiling at me, Imperials. Can you say the same?",
+    "npcName": "Stormcloak Soldier",
+    "npcRace": "Nord",
+    "location": "Helgen",
+    "hold": "Falkreath Hold",
+    "category": "Companion",
+    "questContext": "Unbound"
+  },
+  {
+    "text": "I'd rather die than go to prison!",
+    "npcName": "Benor",
+    "npcRace": "Nord",
+    "location": "Morthal",
+    "hold": "Hjaalmarch",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Skyrim could not be more different from Elsweyr. But magic... magic is the same, no matter where you go.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "You are not as strong as Farkas, but you might have the brains.",
+    "npcName": "Vilkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": "Take Up Arms"
+  },
+  {
+    "text": "Life's too short to spend time working for others. Kill and take what you need.",
+    "npcName": "Jenassa",
+    "npcRace": "Dunmer",
+    "location": "The Drunken Huntsman",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "A NEW HAND TOUCHES THE BEACON.",
+    "npcName": "Meridia",
+    "npcRace": "Daedric",
+    "location": "Mount Kilkreath",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Break of Dawn"
+  },
+  {
+    "text": "Hear me and obey. A foul darkness has seeped into my temple. A darkness that you will destroy.",
+    "npcName": "Meridia",
+    "npcRace": "Daedric",
+    "location": "Mount Kilkreath",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Break of Dawn"
+  },
+  {
+    "text": "You can call me Ann Marie. But only if you're partial to being flayed alive and having an angry immortal skip rope with your entrails.",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "I'm a mad god. The Mad God, actually. It's a family title. Gets passed down from me to myself every few thousand years.",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "Feel free to keep the Wabbajack. As a symbol of my... Oh, just take the damn thing.",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "Care to take a look around? This is not, I dare say, the Solitude botanical gardens.",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "I am Hermaeus Mora. I am the guardian of the unseen, and knower of the unknown.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "Discerning the Transmundane"
+  },
+  {
+    "text": "Come, my champion. Bask in my presence.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "Discerning the Transmundane"
+  },
+  {
+    "text": "Your free will is an illusion.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "Discerning the Transmundane"
+  },
+  {
+    "text": "Did you think you could escape me, Miraak? You can hide nothing from me here.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "At the Summit of Apocrypha"
+  },
+  {
+    "text": "Miraak harbored fantasies of rebellion against me. Learn from his example.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "At the Summit of Apocrypha"
+  },
+  {
+    "text": "I am Sanguine, Daedric Prince of Debauchery! How could I lie to you? Well, how could I trust you until we've shared a few drinks?",
+    "npcName": "Sanguine",
+    "npcRace": "Daedric",
+    "location": "Misty Grove",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "A Night to Remember"
+  },
+  {
+    "text": "Let's be honest here. I don't always think my decisions through. But you... you're going places.",
+    "npcName": "Sanguine",
+    "npcRace": "Daedric",
+    "location": "Misty Grove",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "A Night to Remember"
+  },
+  {
+    "text": "I bid you to drink deeply from the Ebonmere, mortal. For this is where the Agent of Nocturnal is born.",
+    "npcName": "Nocturnal",
+    "npcRace": "Daedric",
+    "location": "Nightingale Hall",
+    "hold": "The Rift",
+    "category": "Daedric",
+    "questContext": "Trinity Restored"
+  },
+  {
+    "text": "The Oath has been struck, the die has been cast and your fate awaits you in the Evergloam.",
+    "npcName": "Nocturnal",
+    "npcRace": "Daedric",
+    "location": "Nightingale Hall",
+    "hold": "The Rift",
+    "category": "Daedric",
+    "questContext": "Trinity Restored"
+  },
+  {
+    "text": "Weak. He's weak. You're strong. Crush him.",
+    "npcName": "Molag Bal",
+    "npcRace": "Daedric",
+    "location": "Abandoned House",
+    "hold": "The Reach",
+    "category": "Daedric",
+    "questContext": "The House of Horrors"
+  },
+  {
+    "text": "You will kill, or you will die!",
+    "npcName": "Molag Bal",
+    "npcRace": "Daedric",
+    "location": "Abandoned House",
+    "hold": "The Reach",
+    "category": "Daedric",
+    "questContext": "The House of Horrors"
+  },
+  {
+    "text": "I want submission. I want the priest to bend his knee and give me his soul.",
+    "npcName": "Molag Bal",
+    "npcRace": "Daedric",
+    "location": "Abandoned House",
+    "hold": "The Reach",
+    "category": "Daedric",
+    "questContext": "The House of Horrors"
+  },
+  {
+    "text": "You are but a dog, and I am your master!",
+    "npcName": "Clavicus Vile",
+    "npcRace": "Daedric",
+    "location": "Haemar's Shame",
+    "hold": "Falkreath Hold",
+    "category": "Daedric",
+    "questContext": "A Daedra's Best Friend"
+  },
+  {
+    "text": "A servant approaches. Come closer.",
+    "npcName": "Boethiah",
+    "npcRace": "Daedric",
+    "location": "Sacellum of Boethiah",
+    "hold": "Eastmarch",
+    "category": "Daedric",
+    "questContext": "Boethiah's Calling"
+  },
+  {
+    "text": "I am patient. I am long-suffering. But my patience has limits.",
+    "npcName": "Boethiah",
+    "npcRace": "Daedric",
+    "location": "Sacellum of Boethiah",
+    "hold": "Eastmarch",
+    "category": "Daedric",
+    "questContext": "Boethiah's Calling"
+  },
+  {
+    "text": "You have pleased me, champion. Your enemies are my enemies, and they shall fall.",
+    "npcName": "Namira",
+    "npcRace": "Daedric",
+    "location": "Reachcliff Cave",
+    "hold": "The Reach",
+    "category": "Daedric",
+    "questContext": "The Taste of Death"
+  },
+  {
+    "text": "You are the Chosen of Azura. The time of prophecy is now.",
+    "npcName": "Azura",
+    "npcRace": "Daedric",
+    "location": "Shrine of Azura",
+    "hold": "Winterhold Hold",
+    "category": "Daedric",
+    "questContext": "The Black Star"
+  },
+  {
+    "text": "The Ebony Blade feeds on the hatred that grows from trust betrayed.",
+    "npcName": "Mephala",
+    "npcRace": "Daedric",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Daedric",
+    "questContext": "The Whispering Door"
+  },
+  {
+    "text": "There are those who would seek to stop the hunt. They do not interest me.",
+    "npcName": "Hircine",
+    "npcRace": "Daedric",
+    "location": "Bloated Man's Grotto",
+    "hold": "Falkreath Hold",
+    "category": "Daedric",
+    "questContext": "Ill Met by Moonlight"
+  },
+  {
+    "text": "I have watched you, mortal. Most impressive.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "Dragonborn"
+  },
+  {
+    "text": "The objective here is simple, you simpleton!",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "What is better — to be born good, or to overcome your evil nature through great effort?",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Throat of the World"
+  },
+  {
+    "text": "Drem Yol Lok. Greetings, wunduniik. I am Paarthurnax.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Throat of the World"
+  },
+  {
+    "text": "There is nothing else but philosophy to a dovah.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Dov wahlaan fah rel. We were made to dominate.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Throat of the World"
+  },
+  {
+    "text": "I am as my father Akatosh made me. As are you... Dovahkiin.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Throat of the World"
+  },
+  {
+    "text": "Zu'u tiiraaz ahst ok mah. He was my brother once.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "There is no distinction between debate and combat to a dragon.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Evenaar bahlok. There are many hungers it is better to deny than to feed.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Tiid krent. Time was... shattered here because of what the ancient Nords did to Alduin.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "Elder Knowledge"
+  },
+  {
+    "text": "Zu'u unslaad! Zu'u nis oblaan!",
+    "npcName": "Alduin",
+    "npcRace": "Dragon",
+    "location": "Sovngarde",
+    "hold": "Sovngarde",
+    "category": "Dragon",
+    "questContext": "Dragonslayer"
+  },
+  {
+    "text": "You are brave. Balaan hokoron. Your defeat brings me honor.",
+    "npcName": "Alduin",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "Alduin's Bane"
+  },
+  {
+    "text": "Dovahkiin, hin kah fen kos bonaar. Your pride will be humbled.",
+    "npcName": "Alduin",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "Alduin's Bane"
+  },
+  {
+    "text": "Tahrodiis Paarthurnax! My teeth to his neck!",
+    "npcName": "Alduin",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "Alduin's Bane"
+  },
+  {
+    "text": "And so the First Dragonborn meets the Last Dragonborn at the summit of Apocrypha.",
+    "npcName": "Miraak",
+    "npcRace": "Nord",
+    "location": "Apocrypha",
+    "hold": "Solstheim",
+    "category": "Dragon",
+    "questContext": "At the Summit of Apocrypha"
+  },
+  {
+    "text": "You have no idea of the true power a Dragonborn can wield!",
+    "npcName": "Miraak",
+    "npcRace": "Nord",
+    "location": "Apocrypha",
+    "hold": "Solstheim",
+    "category": "Dragon",
+    "questContext": "At the Summit of Apocrypha"
+  },
+  {
+    "text": "This realm is beyond you. You have no power here.",
+    "npcName": "Miraak",
+    "npcRace": "Nord",
+    "location": "Apocrypha",
+    "hold": "Solstheim",
+    "category": "Dragon",
+    "questContext": "The Temple of Miraak"
+  },
+  {
+    "text": "So... a Dragonborn appears, at this moment in the turning of an age.",
+    "npcName": "Arngeir",
+    "npcRace": "Nord",
+    "location": "High Hrothgar",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Way of the Voice"
+  },
+  {
+    "text": "Do not be afraid. Your Shout will not harm us.",
+    "npcName": "Arngeir",
+    "npcRace": "Nord",
+    "location": "High Hrothgar",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Way of the Voice"
+  },
+  {
+    "text": "We are the Greybeards, followers of the Way of the Voice. You stand in High Hrothgar, on the slopes of Kynareth's sacred mountain.",
+    "npcName": "Arngeir",
+    "npcRace": "Nord",
+    "location": "High Hrothgar",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Way of the Voice"
+  },
+  {
+    "text": "Let the Way of the Voice be your guide, and the path of wisdom will be clear to you.",
+    "npcName": "Arngeir",
+    "npcRace": "Nord",
+    "location": "High Hrothgar",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Dovahkiin! Dovahkiin! Naal ok zin los vahriin!",
+    "npcName": "Greybeards",
+    "npcRace": "Nord",
+    "location": "High Hrothgar",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Way of the Voice"
+  },
+  {
+    "text": "Thuri, Dovahkiin. I am at your command.",
+    "npcName": "Odahviing",
+    "npcRace": "Dragon",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Fallen"
+  },
+  {
+    "text": "Zu'u lost daal. Alduin lost daal.",
+    "npcName": "Alduin",
+    "npcRace": "Dragon",
+    "location": "Western Watchtower",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "Dragon Rising"
+  },
+  {
+    "text": "Hin sil fen nahkip bahloki. Your soul will feed my hunger.",
+    "npcName": "Dragon",
+    "npcRace": "Dragon",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Sahrotaar, are you so easily swayed? No. Not yet. We should greet our guest first.",
+    "npcName": "Miraak",
+    "npcRace": "Nord",
+    "location": "Apocrypha",
+    "hold": "Solstheim",
+    "category": "Dragon",
+    "questContext": "At the Summit of Apocrypha"
+  },
+  {
+    "text": "Zin krif horvut se suleyk. Honor is fighting the lure of power.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Do you get to the Cloud District very often? Oh, what am I saying, of course you don't.",
+    "npcName": "Nazeem",
+    "npcRace": "Redguard",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Talos the mighty! Talos the unerring! Talos the unassailable! To you we give praise!",
+    "npcName": "Heimskr",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "We are but maggots, writhing in the filth of our own corruption!",
+    "npcName": "Heimskr",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Rise up, children of the Empire! Rise up, Stormcloaks! Embrace the word of mighty Talos!",
+    "npcName": "Heimskr",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I work for Belethor, at the general goods store.",
+    "npcName": "Sigurd",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I am Nazeem, and I own Chillfurrow Farm.",
+    "npcName": "Nazeem",
+    "npcRace": "Redguard",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Never should have come here!",
+    "npcName": "Bandit",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I have a lot of prior experience. If you know what I mean.",
+    "npcName": "Haelga",
+    "npcRace": "Nord",
+    "location": "Riften",
+    "hold": "The Rift",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I've been looking for you. Got something I'm supposed to deliver — your hands only.",
+    "npcName": "Courier",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "The gods have given Whiterun everything we need. Fresh water, fertile soil, and the Skyforge.",
+    "npcName": "Adrianne Avenicci",
+    "npcRace": "Imperial",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "You have committed crimes against Skyrim and her people. What say you in your defense?",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Skyrim is now host to giant, flying lizards and two-legged cat-men... and you're surprised by me?",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "I fight for the men I've held in my arms, dying on foreign soil. I fight for their wives and children, whose names I heard whispered in their last breaths.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "We've had visitors from that College in Winterhold, you know. I don't trust them.",
+    "npcName": "Citizen",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I'm looking for my husband. Have you seen him? He has dark hair and a tattoo.",
+    "npcName": "Camilla Valerius",
+    "npcRace": "Imperial",
+    "location": "Riverwood",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "We're one of the oldest families in Solitude. We have a legacy to protect.",
+    "npcName": "Erikur",
+    "npcRace": "Nord",
+    "location": "Blue Palace",
+    "hold": "Haafingar",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "In my day, we didn't have fancy armors. We had sticks. Two sticks and a rock for the whole platoon. And we had to share the rock.",
+    "npcName": "Fralia Gray-Mane",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I just want things to be the way they were before all this fighting started.",
+    "npcName": "Citizen",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Have you seen those warriors from Hammerfell? They have curved swords. Curved. Swords.",
+    "npcName": "Citizen",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "What a fool you are. I'm a god. How can you kill a god?",
+    "npcName": "Neloth",
+    "npcRace": "Dunmer",
+    "location": "Tel Mithryn",
+    "hold": "Solstheim",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "I am not afraid of you, even if you are my elder.",
+    "npcName": "Babette",
+    "npcRace": "Breton",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Enough! I will not stand idly by while a dragon burns my hold and slaughters my people!",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Dragon Rising"
+  },
+  {
+    "text": "If it's the war you're referring to, I'm on the side of Whiterun.",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "You've done Whiterun a service, and I won't forget it.",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I'll be damned if I let this rabble take my city without raising my own sword.",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Battle for Whiterun"
+  },
+  {
+    "text": "I'll not stand idly by while a dragon burns my hold and slaughters my people.",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Dragon Rising"
+  },
+  {
+    "text": "We're fighting because we're done bleeding for an Empire that won't bleed for us.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I fight for the men I've held in my arms, dying on foreign soil.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I'll never surrender Skyrim into the hands of a corrupt and dying Empire.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "There hasn't been a true High King in Skyrim for generations.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I spent almost ten years at High Hrothgar, learning the Way of the Voice.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I fight because I must.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I'm not a fool, Proventus. It's time to challenge Ulfric to face me as a man.",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Message to Whiterun"
+  },
+  {
+    "text": "Take my home. Take my city. May it burn down around you.",
+    "npcName": "Laila Law-Giver",
+    "npcRace": "Nord",
+    "location": "Mistveil Keep",
+    "hold": "The Rift",
+    "category": "Jarl",
+    "questContext": "Battle for Riften"
+  },
+  {
+    "text": "Jarl Black-Briar. I must admit, I do like the sound of that.",
+    "npcName": "Maven Black-Briar",
+    "npcRace": "Nord",
+    "location": "Mistveil Keep",
+    "hold": "The Rift",
+    "category": "Jarl",
+    "questContext": "Battle for Riften"
+  },
+  {
+    "text": "You are troubled, Gorm... I am simply telling you what I see.",
+    "npcName": "Idgrod Ravencrone",
+    "npcRace": "Nord",
+    "location": "Highmoon Hall",
+    "hold": "Hjaalmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "The Empire is law. The law is sacred.",
+    "npcName": "General Tullius",
+    "npcRace": "Imperial",
+    "location": "Castle Dour",
+    "hold": "Haafingar",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "Wait. You don't intend to just hand over Markarth to that... traitor!",
+    "npcName": "Elisif the Fair",
+    "npcRace": "Nord",
+    "location": "Blue Palace",
+    "hold": "Haafingar",
+    "category": "Jarl",
+    "questContext": "Season Unending"
+  },
+  {
+    "text": "We Nords were proud warriors once. And we still could be.",
+    "npcName": "Laila Law-Giver",
+    "npcRace": "Nord",
+    "location": "Mistveil Keep",
+    "hold": "The Rift",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "Proventus, I have a city to keep. Have you forgotten?",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "The Reach belongs to the Forsworn!",
+    "npcName": "Madanach",
+    "npcRace": "Breton",
+    "location": "Cidhna Mine",
+    "hold": "The Reach",
+    "category": "Jarl",
+    "questContext": "No One Escapes Cidhna Mine"
+  },
+  {
+    "text": "I must rule firmly and fairly, for the good of my people.",
+    "npcName": "Igmund",
+    "npcRace": "Nord",
+    "location": "Understone Keep",
+    "hold": "The Reach",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "Succeed at this, and you'll be rewarded. Whiterun will be in your debt.",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Bleak Falls Barrow"
+  },
+  {
+    "text": "Some may call this junk. Me, I call them treasures.",
+    "npcName": "Belethor",
+    "npcRace": "Breton",
+    "location": "Belethor's General Goods",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Everything's for sale, my friend. Everything. If I had a sister, I'd sell her in a second.",
+    "npcName": "Belethor",
+    "npcRace": "Breton",
+    "location": "Belethor's General Goods",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Imperials, Stormcloaks... I don't care who's in charge around here. I just want to make money.",
+    "npcName": "Belethor",
+    "npcRace": "Breton",
+    "location": "Belethor's General Goods",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Looking to protect yourself, or deal some damage?",
+    "npcName": "Blacksmith",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Trinkets, odds and ends, that sort of thing.",
+    "npcName": "Merchant",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "May your road lead you to warm sands.",
+    "npcName": "Ri'saad",
+    "npcRace": "Khajiit",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Khajiit has wares, if you have coin.",
+    "npcName": "Ri'saad",
+    "npcRace": "Khajiit",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "The finest weapons and armor.",
+    "npcName": "Eorlund Gray-Mane",
+    "npcRace": "Nord",
+    "location": "Skyforge",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "I've got a lot of prior experience. If you know what I mean.",
+    "npcName": "Haelga",
+    "npcRace": "Nord",
+    "location": "Haelga's Bunkhouse",
+    "hold": "The Rift",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "I know what you're thinking. 'This Belethor, how could he part with such magnificent treasures?'",
+    "npcName": "Belethor",
+    "npcRace": "Breton",
+    "location": "Belethor's General Goods",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Drink for the thirsty, food for the hungry.",
+    "npcName": "Innkeeper",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "I got the best deals anywhere. Crazy, two-for-one deals!",
+    "npcName": "Tonilia",
+    "npcRace": "Redguard",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Spells and incantations for those with the talent to cast them.",
+    "npcName": "Spell Vendor",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Oh, a bit of this and a bit of that.",
+    "npcName": "Merchant",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Got a pretty full stock of potions and alchemy reagents.",
+    "npcName": "Alchemist",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "I make arms and armor. I supply the Imperial soldiers stationed here.",
+    "npcName": "Adrianne Avenicci",
+    "npcRace": "Imperial",
+    "location": "Warmaiden's",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Swift hunting.",
+    "npcName": "Khajiit Caravan",
+    "npcRace": "Khajiit",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "I'm the best alchemist in Skyrim. Or at least I like to think so.",
+    "npcName": "Arcadia",
+    "npcRace": "Imperial",
+    "location": "Arcadia's Cauldron",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "More here than meets the eye, friend.",
+    "npcName": "Elrindir",
+    "npcRace": "Bosmer",
+    "location": "The Drunken Huntsman",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Clothes and raiment for the discerning customer.",
+    "npcName": "Tailor",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "You know, if you have the aptitude, you should join the Mage's College in Winterhold.",
+    "npcName": "Farengar Secret-Fire",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "Knowledge is power, and I intend to be very powerful indeed.",
+    "npcName": "Savos Aren",
+    "npcRace": "Dunmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "J'zargo expected to be named Arch-Mage, but there is still time.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "Safety and awareness are, of course, essential. However, I believe we also need to exercise a fair amount of trust.",
+    "npcName": "Tolfdir",
+    "npcRace": "Nord",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "Under Saarthal"
+  },
+  {
+    "text": "I have no idea! This is amazing. Absolutely amazing. The Arch-Mage needs to be informed immediately.",
+    "npcName": "Tolfdir",
+    "npcRace": "Nord",
+    "location": "Saarthal",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "Under Saarthal"
+  },
+  {
+    "text": "Cross the bridge at your own peril. The way is dangerous, and the gate will not open. You shall not gain entry!",
+    "npcName": "Faralda",
+    "npcRace": "Altmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "First Lessons"
+  },
+  {
+    "text": "The College of Winterhold is an excellent place to hone the magical arts.",
+    "npcName": "Faralda",
+    "npcRace": "Altmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "So, you wish to master the arcane arts.",
+    "npcName": "Farengar Secret-Fire",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "The ancient Nords built Whiterun at the foot of the great mountain for a reason.",
+    "npcName": "Farengar Secret-Fire",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Mage",
+    "questContext": "Bleak Falls Barrow"
+  },
+  {
+    "text": "There is much for J'zargo to be sure of. There is skill in magic, there is charm, and there is a strong will.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "Well now... would you look at that. I never imagined we'd find something like this.",
+    "npcName": "Tolfdir",
+    "npcRace": "Nord",
+    "location": "Saarthal",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "Under Saarthal"
+  },
+  {
+    "text": "The College is the one place in Skyrim where magic is openly practiced.",
+    "npcName": "Mirabelle Ervine",
+    "npcRace": "Breton",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "I'm sure your College approves of tearing the world asunder.",
+    "npcName": "Birna",
+    "npcRace": "Nord",
+    "location": "Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "I am but a poor old wizard, and the College is all I have. Please help me preserve it.",
+    "npcName": "Tolfdir",
+    "npcRace": "Nord",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "Containment"
+  },
+  {
+    "text": "Your ability to absorb knowledge will serve you well here.",
+    "npcName": "Savos Aren",
+    "npcRace": "Dunmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "Ancano. He is the Thalmor advisor here at the College. Don't let him fool you — he's part of their attempt to control the College.",
+    "npcName": "Savos Aren",
+    "npcRace": "Dunmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "The power to unmake the world at a whim. I'm not sure you appreciate the gravity of what you possess.",
+    "npcName": "Ancano",
+    "npcRace": "Altmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "The Eye of Magnus"
+  },
+  {
+    "text": "You think you can stop me? I have the power of the Eye! I am BEYOND you!",
+    "npcName": "Ancano",
+    "npcRace": "Altmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "The Eye of Magnus"
+  },
+  {
+    "text": "I've seen what this thing can do. It's too dangerous. We need to seal it away.",
+    "npcName": "Quaranir",
+    "npcRace": "Altmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "The Eye of Magnus"
+  },
+  {
+    "text": "Never done an honest day's work in your life for all that coin you're carrying, eh lad?",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "Riften Marketplace",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "A Chance Arrangement"
+  },
+  {
+    "text": "Sorry, lad. I've got important things to do. We'll speak another time.",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "Riften",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "Wealth is my business. Help me out, and I can add to yours.",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "Riften Marketplace",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "A Chance Arrangement"
+  },
+  {
+    "text": "Crime is one thing, murder is another. Mercer will answer for this.",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "Hard Answers"
+  },
+  {
+    "text": "I'm telling you, this one is different...",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "It's true, Brynjolf. Every word. Mercer's been stealing from the Guild for years, right under your noses.",
+    "npcName": "Karliah",
+    "npcRace": "Dunmer",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "The Pursuit"
+  },
+  {
+    "text": "I call upon you Lady Nocturnal, Queen of Murk and Empress of Shadow... hear my voice!",
+    "npcName": "Karliah",
+    "npcRace": "Dunmer",
+    "location": "Nightingale Hall",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "Trinity Restored"
+  },
+  {
+    "text": "Mercer destroyed everything this Guild stood for. He murdered my predecessor in cold blood and betrayed the Guild.",
+    "npcName": "Mercer Frey",
+    "npcRace": "Breton",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "Speaking With Silence"
+  },
+  {
+    "text": "The gold, the jewels... it's all gone.",
+    "npcName": "Delvin Mallory",
+    "npcRace": "Breton",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "Under New Management"
+  },
+  {
+    "text": "We're goin' to get along nicely. So if you've got the nerve, I've got plenty of extra jobs.",
+    "npcName": "Delvin Mallory",
+    "npcRace": "Breton",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "Silence, my brother.",
+    "npcName": "Black Door",
+    "npcRace": "Daedric",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": "Dark Brotherhood"
+  },
+  {
+    "text": "The Night Mother has spoken! The silence has been broken! The Listener has been chosen!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": "Whispers in the Dark"
+  },
+  {
+    "text": "Kill well... and often.",
+    "npcName": "Astrid",
+    "npcRace": "Nord",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "Ah, at last! I hope you found the place all right.",
+    "npcName": "Astrid",
+    "npcRace": "Nord",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": "With Friends Like These..."
+  },
+  {
+    "text": "This Sanctuary has been my entire life since I was a young woman.",
+    "npcName": "Astrid",
+    "npcRace": "Nord",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "The Night Mother is mother to all! It is her voice we follow! Her will!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "Stab you, stab you, stab you!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "Being Guild Master means more than just getting a cut of all the loot. It's about being a leader.",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "Under New Management"
+  },
+  {
+    "text": "That's what happens when you cross the Guild.",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "I have Gallus's journal. I think you'll find its contents... disturbing.",
+    "npcName": "Karliah",
+    "npcRace": "Dunmer",
+    "location": "Snow Veil Sanctum",
+    "hold": "Winterhold Hold",
+    "category": "Thief",
+    "questContext": "Hard Answers"
+  },
+  {
+    "text": "Walk with the shadows.",
+    "npcName": "Karliah",
+    "npcRace": "Dunmer",
+    "location": "The Ragged Flagon",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "Babette, my girl, pack your things. We're moving.",
+    "npcName": "Astrid",
+    "npcRace": "Nord",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": "Death Incarnate"
+  },
+  {
+    "text": "I'll be forever in your debt, dearest brother. Now be quiet. Just... just rest.",
+    "npcName": "Astrid",
+    "npcRace": "Nord",
+    "location": "Dark Brotherhood Sanctuary",
+    "hold": "Falkreath Hold",
+    "category": "Thief",
+    "questContext": "Death Incarnate"
+  },
+  {
+    "text": "Running a little light in the pockets, lad?",
+    "npcName": "Brynjolf",
+    "npcRace": "Nord",
+    "location": "Riften Marketplace",
+    "hold": "The Rift",
+    "category": "Thief",
+    "questContext": "A Chance Arrangement"
+  },
+  {
+    "text": "We know.",
+    "npcName": "Dark Brotherhood",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Thief",
+    "questContext": "Innocence Lost"
+  },
+  {
+    "text": "The difference between a noble band of warriors and a ragged bunch of assassins is as thin as a blade's edge.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Family and honor. That's what it means to be one of us.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Some nights I dream about the mists of Sovngarde.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Glory in battle, honor in life. Deal with problems head on.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Sometimes the famous come to us. Sometimes men and women come to us to seek their fame. It makes no difference. What matters is their heart.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": "Take Up Arms"
+  },
+  {
+    "text": "I found this family after losing my own... I realized that I was actually coming home.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Living as beasts draws our souls closer to the Daedric Lord, Hircine.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Hail, Companion. How goes the hunt?",
+    "npcName": "Aela the Huntress",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Some people don't understand the thrill of the hunt. I live for it.",
+    "npcName": "Aela the Huntress",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I would stand at his back, that the world might never overtake us.",
+    "npcName": "Farkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": "Take Up Arms"
+  },
+  {
+    "text": "Ice-brain? Some call me that.",
+    "npcName": "Farkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "The old man had one wish before he died. And he didn't get it. It's as simple as that.",
+    "npcName": "Vilkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": "Glory of the Dead"
+  },
+  {
+    "text": "He wanted to be clean. He wanted to meet Ysgramor and know the glories of Sovngarde.",
+    "npcName": "Vilkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": "Glory of the Dead"
+  },
+  {
+    "text": "Skyrim belongs to the Nords!",
+    "npcName": "Stormcloak Soldier",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "You'll make a fine rug, cat!",
+    "npcName": "Bandit",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I stand witness to the courage of the soul before us.",
+    "npcName": "Farkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": "Take Up Arms"
+  },
+  {
+    "text": "Victory or Sovngarde!",
+    "npcName": "Stormcloak Soldier",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I worry that Shor won't call an animal to glory as he would a true Nord warrior.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I would lead the song of triumph as our mead hall reveled in his stories.",
+    "npcName": "Farkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": "Take Up Arms"
+  },
+  {
+    "text": "The best techniques are passed on by the survivors.",
+    "npcName": "Gaius Maro",
+    "npcRace": "Imperial",
+    "location": "Solitude",
+    "hold": "Haafingar",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Your own fate will be your own choice. Just as always.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "It means living such that your Shield-Siblings would proudly say they fought at your side.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "There's no sense in fighting a battle you've already lost.",
+    "npcName": "Galmar Stone-Fist",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Steel is good, but flesh is better.",
+    "npcName": "Farkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I'm not a man, I'm a weapon in human form. Just unsheathe me and point me at the enemy.",
+    "npcName": "Stenvar",
+    "npcRace": "Nord",
+    "location": "Candlehearth Hall",
+    "hold": "Eastmarch",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "There will be blood, and there will be death. That's what comes of war.",
+    "npcName": "Galmar Stone-Fist",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "For the love of Talos, shut up and let's get going!",
+    "npcName": "Ralof",
+    "npcRace": "Nord",
+    "location": "Helgen",
+    "hold": "Falkreath Hold",
+    "category": "Warrior",
+    "questContext": "Unbound"
+  },
+  {
+    "text": "Next time, I'll just let the wolves eat you.",
+    "npcName": "Aela the Huntress",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I've seen bigger mudcrabs than you!",
+    "npcName": "Bandit",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I need a drink.",
+    "npcName": "Vilkas",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I have a bad feeling about this.",
+    "npcName": "Hadvar",
+    "npcRace": "Nord",
+    "location": "Helgen",
+    "hold": "Falkreath Hold",
+    "category": "Warrior",
+    "questContext": "Unbound"
+  },
+  {
+    "text": "True Nords don't back down from any fight.",
+    "npcName": "Galmar Stone-Fist",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "We now fight our way to Castle Dour to cut the head off the legion itself!",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Solitude",
+    "hold": "Haafingar",
+    "category": "Warrior",
+    "questContext": "Battle for Solitude"
+  },
+  {
+    "text": "I fight so that all the fighting I've already done hasn't been for nothing.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "That's fine for you. But he wanted to be clean.",
+    "npcName": "Vilkas",
+    "npcRace": "Nord",
+    "location": "Ysgramor's Tomb",
+    "hold": "Winterhold Hold",
+    "category": "Warrior",
+    "questContext": "Glory of the Dead"
+  },
+  {
+    "text": "Just because you can do a thing, does not always mean you should.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "Ulfric, you can't seriously be considering handing over Markarth! We lost good men taking that city.",
+    "npcName": "Galmar Stone-Fist",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Warrior",
+    "questContext": "Season Unending"
+  },
+  {
+    "text": "Come on, you can do better than that!",
+    "npcName": "Aela the Huntress",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "What do you want, milk drinker?",
+    "npcName": "Bandit",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "I am Isran, and I lead the Dawnguard. Vampire hunters. I'm sure you've heard of us.",
+    "npcName": "Isran",
+    "npcRace": "Redguard",
+    "location": "Fort Dawnguard",
+    "hold": "The Rift",
+    "category": "Warrior",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "Vampires. Always the damn vampires. Never could get used to those things.",
+    "npcName": "Isran",
+    "npcRace": "Redguard",
+    "location": "Fort Dawnguard",
+    "hold": "The Rift",
+    "category": "Warrior",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "I'm going to kill you. And keep killing you. And I won't ever stop.",
+    "npcName": "Lord Harkon",
+    "npcRace": "Nord",
+    "location": "Castle Volkihar",
+    "hold": "Haafingar",
+    "category": "Warrior",
+    "questContext": "Kindred Judgment"
+  },
+  {
+    "text": "Stop right there, criminal scum! Nobody breaks the law on my watch!",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Whiterun's got the Companions. Bunch of thugs if you ask me, but they have honor.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "Hands to yourself, sneak thief.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "I caught a skeever on the road the other day. Filthy creatures.",
+    "npcName": "Guard",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Guard",
+    "questContext": null
+  },
+  {
+    "text": "The wind blows bitter cold in this part of Skyrim.",
+    "npcName": "Lydia",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Look at that. Am I imagining things, or is that wall... coming alive?",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "I could hear you. Thundering up those stairs in your full set of armor.",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "Wherever you need me, I'm right behind you.",
+    "npcName": "Lydia",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Whiterun Hold",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Ow... it hurts when I laugh.",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Oh, we're going to be fast friends. Fast friends.",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Companion",
+    "questContext": null
+  },
+  {
+    "text": "Pelagius Septim the Third, once the Mad Emperor of Tamriel, now so boringly sane.",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "I am a part of you, little mortal. I am a shadow in your subconscious, a blemish on your fragile little psyche.",
+    "npcName": "Sheogorath",
+    "npcRace": "Daedric",
+    "location": "Pelagius Wing",
+    "hold": "Haafingar",
+    "category": "Daedric",
+    "questContext": "The Mind of Madness"
+  },
+  {
+    "text": "So, another seeker after knowledge enters my realm. I am Hermaeus Mora, Prince of Fate.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "Dragonborn"
+  },
+  {
+    "text": "Send the Skaal shaman to me. He holds the secrets that will be mine.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Apocrypha",
+    "hold": "Oblivion",
+    "category": "Daedric",
+    "questContext": "The Gardener of Men"
+  },
+  {
+    "text": "Now you have my Oghma Infinium. It contains the knowledge of the ages.",
+    "npcName": "Hermaeus Mora",
+    "npcRace": "Daedric",
+    "location": "Septimus Signus's Outpost",
+    "hold": "Winterhold Hold",
+    "category": "Daedric",
+    "questContext": "Discerning the Transmundane"
+  },
+  {
+    "text": "My time in Apocrypha is over. You are here in your full power, and thus subject to my full power.",
+    "npcName": "Miraak",
+    "npcRace": "Nord",
+    "location": "Apocrypha",
+    "hold": "Solstheim",
+    "category": "Dragon",
+    "questContext": "At the Summit of Apocrypha"
+  },
+  {
+    "text": "Aaah... yes! Sossedov los mul. The Dragonblood runs strong in you.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": "The Throat of the World"
+  },
+  {
+    "text": "Even I cannot see past Time's ending to know what comes next.",
+    "npcName": "Paarthurnax",
+    "npcRace": "Dragon",
+    "location": "Throat of the World",
+    "hold": "Whiterun Hold",
+    "category": "Dragon",
+    "questContext": null
+  },
+  {
+    "text": "You have come! You have come to hear the word of Talos!",
+    "npcName": "Heimskr",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Let me show you the power of Talos Stormcrown, born of the North, where my breath is long winter.",
+    "npcName": "Heimskr",
+    "npcRace": "Nord",
+    "location": "Whiterun",
+    "hold": "Whiterun Hold",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Another wanderer, here to lick my father's boots. Good job.",
+    "npcName": "Neloth",
+    "npcRace": "Dunmer",
+    "location": "Tel Mithryn",
+    "hold": "Solstheim",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Sometimes life puts you in difficult circumstances you didn't choose. But being happy or unhappy is a choice you make.",
+    "npcName": "Serana",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": "Dawnguard"
+  },
+  {
+    "text": "A dragon! I saw a dragon!",
+    "npcName": "Citizen",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "By the Nine Divines! Assault! Assault!",
+    "npcName": "Citizen",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Citizen",
+    "questContext": null
+  },
+  {
+    "text": "Skyrim was betrayed, the blood of her sons spilled in doomed struggle against fate.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "What would you have me do, then? Nothing?",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Dragon Rising"
+  },
+  {
+    "text": "This is how the Empire repays us for our loyalty?",
+    "npcName": "Balgruuf the Greater",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Jarl",
+    "questContext": "Battle for Whiterun"
+  },
+  {
+    "text": "It's time we had a real king. One of our own making.",
+    "npcName": "Ulfric Stormcloak",
+    "npcRace": "Nord",
+    "location": "Palace of the Kings",
+    "hold": "Eastmarch",
+    "category": "Jarl",
+    "questContext": null
+  },
+  {
+    "text": "I salute you, fellow merchant. No wait, I think I'll just rob you instead.",
+    "npcName": "Belethor",
+    "npcRace": "Breton",
+    "location": "Belethor's General Goods",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "I'd even buy one of your relatives, if you're looking to sell. Ha ha ha. That's... that's a little joke.",
+    "npcName": "Belethor",
+    "npcRace": "Breton",
+    "location": "Belethor's General Goods",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Best swords and armor in Whiterun. All courtesy of Adrianne Avenicci.",
+    "npcName": "Adrianne Avenicci",
+    "npcRace": "Imperial",
+    "location": "Warmaiden's",
+    "hold": "Whiterun Hold",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Let's sate that appetite, hmm?",
+    "npcName": "Innkeeper",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Nice day for fishin', ain't it?",
+    "npcName": "Fisherman",
+    "npcRace": "Nord",
+    "location": "Riften",
+    "hold": "The Rift",
+    "category": "Merchant",
+    "questContext": null
+  },
+  {
+    "text": "Hold on, my boy. I thought it high time I caught up with you.",
+    "npcName": "Tolfdir",
+    "npcRace": "Nord",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "Under Saarthal"
+  },
+  {
+    "text": "J'zargo will be the greatest mage that ever lived. If he doesn't blow himself up first.",
+    "npcName": "J'zargo",
+    "npcRace": "Khajiit",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "I'm the court wizard, not the court jester.",
+    "npcName": "Farengar Secret-Fire",
+    "npcRace": "Nord",
+    "location": "Dragonsreach",
+    "hold": "Whiterun Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "Magic is a true power, not something to be trifled with.",
+    "npcName": "Savos Aren",
+    "npcRace": "Dunmer",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": null
+  },
+  {
+    "text": "Welcome to the College of Winterhold. I trust you'll make yourself useful.",
+    "npcName": "Mirabelle Ervine",
+    "npcRace": "Breton",
+    "location": "College of Winterhold",
+    "hold": "Winterhold Hold",
+    "category": "Mage",
+    "questContext": "First Lessons"
+  },
+  {
+    "text": "Sweet Mother, sweet Mother, send your child unto me, for the sins of the unworthy must be baptized in blood and fear.",
+    "npcName": "Black Sacrament",
+    "npcRace": "Various",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Thief",
+    "questContext": "Innocence Lost"
+  },
+  {
+    "text": "Oh, but this isn't at all what Mother would want.",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Dawnstar Sanctuary",
+    "hold": "The Pale",
+    "category": "Thief",
+    "questContext": "The Cure for Madness"
+  },
+  {
+    "text": "You kill the Keeper or I kill the Listener. Now that's madness!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Dawnstar Sanctuary",
+    "hold": "The Pale",
+    "category": "Thief",
+    "questContext": "The Cure for Madness"
+  },
+  {
+    "text": "Who's the fool now?",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "For the Night Mother!",
+    "npcName": "Cicero",
+    "npcRace": "Imperial",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Thief",
+    "questContext": null
+  },
+  {
+    "text": "I smell weakness.",
+    "npcName": "Aela the Huntress",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "It's a fine day with you around.",
+    "npcName": "Companion",
+    "npcRace": "Nord",
+    "location": "Various",
+    "hold": "Various",
+    "category": "Warrior",
+    "questContext": null
+  },
+  {
+    "text": "Jorrvaskr is the ancient home of the Companions. It has been our mead hall for generations.",
+    "npcName": "Kodlak Whitemane",
+    "npcRace": "Nord",
+    "location": "Jorrvaskr",
+    "hold": "Whiterun Hold",
+    "category": "Warrior",
+    "questContext": null
+  }
+]
