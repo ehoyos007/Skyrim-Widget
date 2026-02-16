@@ -68,7 +68,7 @@
 - [ ] Performance profiling (widget memory, battery)
 
 ## Phase 6: App Store Preparation
-- [ ] App Store screenshots (all device sizes)
+- [x] App Store screenshots (all device sizes) → `AppStore/Screenshots/` (Pro Max 6.9" + 16e 4.7")
 - [x] App description and keywords (ASO) → `AppStore/AppStoreMetadata.md`
 - [x] Privacy policy → `AppStore/PrivacyPolicy.html`
 - [x] Fan-project disclaimer → `AppStore/ReviewNotes.md`

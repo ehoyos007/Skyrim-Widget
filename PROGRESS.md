@@ -345,3 +345,39 @@ Phase 5 done. Next: Phase 6 (App Store Prep) or performance profiling.
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
 Text assets done. Next: screenshots, TestFlight archive, App Store submission.
 ```
+
+---
+
+### Session 7 — Feb 16, 2026
+**Focus**: App Store screenshots for two device sizes
+
+**Completed:**
+- Captured 10 screenshots across 2 device sizes:
+  - **iPhone 17 Pro Max (6.9", 1320x2868)** — `AppStore/Screenshots/`
+  - **iPhone 16e (4.7")** — `AppStore/Screenshots/16e/`
+- 5 screens per device:
+  1. Home tab — widget preview, 304 quotes stat, widget setup instructions
+  2. Quotes tab — swipeable card browser with category filter chips
+  3. Themes tab — 4 theme cards in 2x2 grid (Whiterun, Winterhold, Solstheim, Sovngarde)
+  4. Settings tab — notifications toggle, version, UESP link, legal disclaimer
+  5. Quote Detail — full quote with NPC name, race icon, location, hold, quest context, favorite button
+- Built and installed app on both simulators via `xcodebuild` + `xcrun simctl`
+- Used AppleScript accessibility tree to locate tab bar radio buttons for precise navigation
+- Updated TASKS.md — Phase 6 now 4/6 complete
+
+**Remaining (all require App Store Connect):**
+- Phase 5: Performance profiling with Instruments (widget memory, battery)
+- Phase 6: TestFlight beta distribution (Archive → Upload → Add testers)
+- Phase 6: App Store submission (fill metadata from AppStoreMetadata.md, upload screenshots, submit)
+- 304 quotes manual accuracy review
+
+**Where we left off:**
+- Phases 0–5 nearly complete (5/6, performance profiling remains)
+- Phase 6 is 4/6 complete (text assets + screenshots done, TestFlight + submission remain)
+- All remaining work is in Xcode and App Store Connect
+
+**To resume next session:**
+```
+Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
+All assets ready. Next: TestFlight archive, App Store submission.
+```
