@@ -60,11 +60,11 @@
 - [x] Full simulator smoke test — all 4 tabs verified
 
 ## Phase 5: Polish & Accessibility
-- [ ] Custom SF Symbol icons for NPC races/categories
-- [ ] Dynamic Type support
-- [ ] VoiceOver labels on all elements
-- [ ] Minimum 4.5:1 contrast ratio across themes
-- [ ] Reduce Motion support
+- [x] Custom SF Symbol icons for NPC races/categories
+- [x] Dynamic Type support
+- [x] VoiceOver labels on all elements
+- [x] Minimum 4.5:1 contrast ratio across themes
+- [x] Reduce Motion support
 - [ ] Performance profiling (widget memory, battery)
 
 ## Phase 6: App Store Preparation

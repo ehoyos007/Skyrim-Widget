@@ -85,6 +85,7 @@ struct QuoteBrowserView: View {
                 }
             }
         }
+        .accessibilityLabel("Category filter")
     }
 
     @ViewBuilder
@@ -99,10 +100,10 @@ struct QuoteBrowserView: View {
             HStack(spacing: 4) {
                 if let icon {
                     Image(systemName: icon)
-                        .font(.uiText(10))
+                        .font(.uiText(.caption2))
                 }
                 Text(title)
-                    .font(.uiText(13, weight: .medium))
+                    .font(.uiText(.footnote, weight: .medium))
             }
             .foregroundStyle(isSelected ? theme.bg : theme.text)
             .padding(.horizontal, 12)
@@ -112,6 +113,8 @@ struct QuoteBrowserView: View {
                     .fill(isSelected ? theme.accent : theme.card)
             )
         }
+        .accessibilityLabel("\(title) filter")
+        .accessibilityAddTraits(isSelected ? .isSelected : [])
     }
 
     @ViewBuilder
@@ -123,8 +126,9 @@ struct QuoteBrowserView: View {
             Label("Favorite", systemImage: "arrow.right")
                 .foregroundStyle(theme.subtle)
         }
-        .font(.uiText(12))
+        .font(.uiText(.caption))
         .padding(.horizontal, 40)
+        .accessibilityHidden(true)
     }
 
     @ViewBuilder
@@ -134,13 +138,14 @@ struct QuoteBrowserView: View {
             Image(systemName: "book.closed")
                 .font(.system(size: 48))
                 .foregroundStyle(theme.subtle)
+                .accessibilityHidden(true)
 
             Text("No more quotes")
-                .font(.uiText(18, weight: .semibold))
+                .font(.uiText(.headline))
                 .foregroundStyle(theme.text)
 
             Text("You've seen all the quotes in this category.")
-                .font(.uiText(14))
+                .font(.uiText(.subheadline))
                 .foregroundStyle(theme.subtle)
                 .multilineTextAlignment(.center)
 
@@ -148,7 +153,7 @@ struct QuoteBrowserView: View {
                 viewModel.resetDeck(modelContext: modelContext)
             } label: {
                 Text("Reshuffle Deck")
-                    .font(.uiText(15, weight: .semibold))
+                    .font(.uiText(.subheadline, weight: .semibold))
                     .foregroundStyle(theme.bg)
                     .padding(.horizontal, 24)
                     .padding(.vertical, 12)

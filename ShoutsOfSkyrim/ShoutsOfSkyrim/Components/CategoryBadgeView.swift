@@ -12,10 +12,10 @@ struct CategoryBadgeView: View {
         HStack(spacing: 4) {
             if let cat = quoteCategory {
                 Image(systemName: cat.sfSymbol)
-                    .font(.uiText(10))
+                    .font(.uiText(.caption2))
             }
             Text(category)
-                .font(.uiText(11, weight: .medium))
+                .font(.uiText(.caption2, weight: .medium))
         }
         .foregroundStyle(theme.accent)
         .padding(.horizontal, 8)
@@ -24,5 +24,6 @@ struct CategoryBadgeView: View {
             Capsule()
                 .fill(theme.accent.opacity(0.15))
         )
+        .accessibilityLabel("\(category) category")
     }
 }

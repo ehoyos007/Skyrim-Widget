@@ -12,7 +12,6 @@ struct LargeQuoteView: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
-            // Category icon header
             if let cat = categoryEnum {
                 HStack(spacing: 6) {
                     Image(systemName: cat.sfSymbol)
@@ -28,21 +27,19 @@ struct LargeQuoteView: View {
 
             Spacer(minLength: 0)
 
-            // Quote text -- lore-style layout
             Text(entry.quote.text)
-                .font(.quoteSerif(18))
+                .font(.quoteSerif(.body))
                 .foregroundStyle(theme.text)
                 .lineLimit(6)
                 .minimumScaleFactor(0.75)
 
             Spacer(minLength: 0)
 
-            // Divider line
             Rectangle()
                 .fill(theme.accent.opacity(0.3))
                 .frame(height: 1)
+                .accessibilityHidden(true)
 
-            // Attribution
             VStack(alignment: .leading, spacing: 4) {
                 Text("-- \(entry.quote.npcName)")
                     .font(.subheadline)
@@ -62,5 +59,7 @@ struct LargeQuoteView: View {
         .containerBackground(for: .widget) {
             theme.bg
         }
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("\(entry.quote.category) quote: \(entry.quote.text), by \(entry.quote.npcName), \(entry.quote.location)")
     }
 }

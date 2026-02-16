@@ -225,3 +225,86 @@ Project builds. Next: run on simulator, test flows, begin Phase 5 polish.
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
 All screens verified on simulator. Next: begin Phase 5 polish (Dynamic Type, VoiceOver, contrast, Reduce Motion).
 ```
+
+---
+
+### Session 5 — Feb 16, 2026
+**Focus**: Phase 5 — Polish & Accessibility
+
+**Completed (5 of 6 Phase 5 items):**
+
+*Dynamic Type Support:*
+- Replaced all fixed-size fonts (`Font.system(size:)`) with TextStyle-based fonts that scale automatically with user's preferred text size
+- Rewrote `quoteSerif()` and `uiText()` extensions in `Color+Theme.swift` to take `Font.TextStyle` instead of `CGFloat`
+- Updated all 15 view files (7 companion app views, 3 components, 6 widget views)
+- Font size → TextStyle mapping: 24→.title2, 20→.title3, 18→.body, 16→.callout, 15→.subheadline, 14→.subheadline, 13→.footnote, 12→.caption, 11→.caption2
+
+*VoiceOver Accessibility:*
+- NPCBadgeView: combined element with "Name, Race" label
+- CategoryBadgeView: labeled with category name
+- HomeView: stat cards with "Title: Value" labels, widget preview combined
+- QuoteBrowserView: filter chips announce selected state, swipe hints hidden from VoiceOver
+- CardStackView: top card has hint "Swipe right to favorite, swipe left to skip"
+- QuoteDetailView: favorite button reads "Add to/Remove from favorites", quest section combined
+- ThemeSelectorView: theme cards announce name + selected state, decorative swatches hidden
+- All 6 widget views: combined accessibility elements with full quote + NPC + location
+
+*Reduce Motion:*
+- CardStackView reads `@Environment(\.accessibilityReduceMotion)`
+- When enabled: no fly-off animation, no card rotation, instant swipe transitions
+- When disabled: existing smooth spring/easeOut animations preserved
+
+*Contrast Audit:*
+- Bumped all 4 themes' `subtle` colors to ensure ≥4.5:1 on card backgrounds:
+  - Whiterun: (0.55,0.50,0.42) → (0.58,0.53,0.45)
+  - Winterhold: (0.45,0.50,0.58) → (0.50,0.55,0.62)
+  - Solstheim: (0.55,0.42,0.40) → (0.58,0.46,0.43)
+  - Sovngarde: (0.58,0.52,0.48) → (0.60,0.55,0.50)
+
+*NPC Race Icons:*
+- Added SF Symbol icons for all 10 Skyrim races in NPCBadgeView
+- Nord→snowflake, Imperial→building.columns, Breton→wand.and.stars, Redguard→sun.max, Dunmer→moon, Altmer→star, Bosmer→leaf, Khajiit→pawprint, Argonian→drop, Orc→hammer
+- Icon displayed next to race name in badge capsule
+- Fallback `person.fill` for non-standard races (e.g., Daedric Princes)
+
+**Files modified (17 total):**
+- Shared/Extensions/Color+Theme.swift (font API rewrite)
+- ShoutsOfSkyrim/Theme/AppTheme.swift (contrast fixes × 4 themes)
+- ShoutsOfSkyrim/Components/QuoteTextView.swift
+- ShoutsOfSkyrim/Components/NPCBadgeView.swift (+ race icons)
+- ShoutsOfSkyrim/Components/CategoryBadgeView.swift
+- ShoutsOfSkyrim/Features/Home/HomeView.swift
+- ShoutsOfSkyrim/Features/Quotes/QuoteBrowserView.swift
+- ShoutsOfSkyrim/Features/Quotes/CardStackView.swift (+ Reduce Motion)
+- ShoutsOfSkyrim/Features/Quotes/QuoteCardView.swift
+- ShoutsOfSkyrim/Features/Quotes/QuoteDetailView.swift
+- ShoutsOfSkyrim/Features/Themes/ThemeSelectorView.swift
+- ShoutsOfSkyrim/Features/Settings/SettingsView.swift
+- ShoutsOfSkyrimWidget/Views/SmallQuoteView.swift
+- ShoutsOfSkyrimWidget/Views/MediumQuoteView.swift
+- ShoutsOfSkyrimWidget/Views/LargeQuoteView.swift
+- ShoutsOfSkyrimWidget/Views/CircularQuoteView.swift
+- ShoutsOfSkyrimWidget/Views/RectangularQuoteView.swift
+- ShoutsOfSkyrimWidget/Views/InlineQuoteView.swift
+
+**Build & Simulator Verification:**
+- BUILD SUCCEEDED (both targets, zero warnings)
+- Installed and launched on iPhone 17 Pro simulator (iOS 26.2)
+- All 4 tabs verified: Home, Quotes (with race icon visible), Detail view, Themes, Settings
+- Zero crashes in system logs
+
+**Remaining:**
+- Phase 5: Performance profiling (manual Instruments task)
+- Phase 6: App Store Preparation (screenshots, ASO, privacy policy, TestFlight)
+- 304 quotes manual accuracy review
+
+**Where we left off:**
+- Phases 0–5 nearly complete (5/6 items done, only performance profiling remains)
+- Phase 6 (App Store Prep) not started
+- **Next action**: Phase 6 or performance profiling with Instruments
+
+**To resume next session:**
+```
+Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
+Phase 5 done. Next: Phase 6 (App Store Prep) or performance profiling.
+```

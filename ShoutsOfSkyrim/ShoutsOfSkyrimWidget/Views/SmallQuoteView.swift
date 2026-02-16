@@ -12,7 +12,7 @@ struct SmallQuoteView: View {
             Spacer(minLength: 0)
 
             Text(entry.quote.text)
-                .font(.quoteSerif(14))
+                .font(.quoteSerif(.footnote))
                 .foregroundStyle(theme.text)
                 .lineLimit(4)
                 .minimumScaleFactor(0.8)
@@ -30,5 +30,7 @@ struct SmallQuoteView: View {
         .containerBackground(for: .widget) {
             theme.bg
         }
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("\(entry.quote.text), by \(entry.quote.npcName)")
     }
 }

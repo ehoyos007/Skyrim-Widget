@@ -7,5 +7,6 @@ struct InlineQuoteView: View {
     var body: some View {
         Text(entry.quote.text)
             .containerBackground(.clear, for: .widget)
+            .accessibilityLabel(entry.quote.text)
     }
 }

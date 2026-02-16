@@ -17,5 +17,7 @@ struct RectangularQuoteView: View {
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .containerBackground(.clear, for: .widget)
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("\(entry.quote.text), by \(entry.quote.npcName)")
     }
 }

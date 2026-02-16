@@ -11,7 +11,7 @@ struct MediumQuoteView: View {
             Spacer(minLength: 0)
 
             Text(entry.quote.text)
-                .font(.quoteSerif(15))
+                .font(.quoteSerif(.subheadline))
                 .foregroundStyle(theme.text)
                 .lineLimit(3)
                 .minimumScaleFactor(0.8)
@@ -38,5 +38,7 @@ struct MediumQuoteView: View {
         .containerBackground(for: .widget) {
             theme.bg
         }
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("\(entry.quote.text), by \(entry.quote.npcName), \(entry.quote.location)")
     }
 }

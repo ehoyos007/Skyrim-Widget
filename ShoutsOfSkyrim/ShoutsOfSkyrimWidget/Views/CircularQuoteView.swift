@@ -18,5 +18,6 @@ struct CircularQuoteView: View {
                 .widgetAccentable()
         }
         .containerBackground(.clear, for: .widget)
+        .accessibilityLabel("\(entry.quote.category) quote")
     }
 }

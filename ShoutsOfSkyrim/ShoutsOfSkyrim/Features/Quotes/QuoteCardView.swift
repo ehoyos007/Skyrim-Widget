@@ -9,7 +9,7 @@ struct QuoteCardView: View {
         VStack(alignment: .leading, spacing: 16) {
             CategoryBadgeView(category: quote.category, theme: theme)
 
-            QuoteTextView(text: quote.text, theme: theme, size: 18)
+            QuoteTextView(text: quote.text, theme: theme, textStyle: .body)
 
             Spacer(minLength: 0)
 
@@ -20,7 +20,7 @@ struct QuoteCardView: View {
                     Label(quote.location, systemImage: "mappin")
                     Label(quote.hold, systemImage: "map")
                 }
-                .font(.uiText(12))
+                .font(.uiText(.caption))
                 .foregroundStyle(theme.subtle)
             }
         }

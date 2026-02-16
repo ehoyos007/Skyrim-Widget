@@ -8,6 +8,7 @@ struct CardStackView: View {
     var onTapCard: (Quote) -> Void
 
     @State private var dragOffset: CGSize = .zero
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     private let swipeThreshold: CGFloat = 150
 
@@ -27,11 +28,11 @@ struct CardStackView: View {
                 .offset(y: isTop ? 0 : yOffset)
                 .offset(x: isTop ? dragOffset.width : 0)
                 .rotationEffect(
-                    isTop ? .degrees(Double(dragOffset.width) / 20) : .zero
+                    isTop && !reduceMotion ? .degrees(Double(dragOffset.width) / 20) : .zero
                 )
                 .overlay(
                     Group {
-                        if isTop {
+                        if isTop && !reduceMotion {
                             swipeOverlay
                         }
                     }
@@ -41,7 +42,9 @@ struct CardStackView: View {
                 .gesture(
                     isTop ? dragGesture : nil
                 )
-                .animation(.spring(response: 0.3), value: dragOffset)
+                .animation(reduceMotion ? nil : .spring(response: 0.3), value: dragOffset)
+                .accessibilityElement(children: .combine)
+                .accessibilityHint(isTop ? "Swipe right to favorite, swipe left to skip, or tap to view details" : "")
             }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -74,24 +77,38 @@ struct CardStackView: View {
             }
             .onEnded { value in
                 if value.translation.width > swipeThreshold {
-                    withAnimation(.easeOut(duration: 0.3)) {
-                        dragOffset = CGSize(width: 500, height: 0)
-                    }
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                    if reduceMotion {
                         dragOffset = .zero
                         onSwipeRight()
+                    } else {
+                        withAnimation(.easeOut(duration: 0.3)) {
+                            dragOffset = CGSize(width: 500, height: 0)
+                        }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                            dragOffset = .zero
+                            onSwipeRight()
+                        }
                     }
                 } else if value.translation.width < -swipeThreshold {
-                    withAnimation(.easeOut(duration: 0.3)) {
-                        dragOffset = CGSize(width: -500, height: 0)
-                    }
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                    if reduceMotion {
                         dragOffset = .zero
                         onSwipeLeft()
+                    } else {
+                        withAnimation(.easeOut(duration: 0.3)) {
+                            dragOffset = CGSize(width: -500, height: 0)
+                        }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                            dragOffset = .zero
+                            onSwipeLeft()
+                        }
                     }
                 } else {
-                    withAnimation(.spring(response: 0.3)) {
+                    if reduceMotion {
                         dragOffset = .zero
+                    } else {
+                        withAnimation(.spring(response: 0.3)) {
+                            dragOffset = .zero
+                        }
                     }
                 }
             }

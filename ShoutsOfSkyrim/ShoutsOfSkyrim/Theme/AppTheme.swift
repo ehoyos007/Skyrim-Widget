@@ -19,7 +19,7 @@ struct AppTheme: Identifiable, Equatable {
         card: Color(red: 0.15, green: 0.13, blue: 0.10),
         accent: Color(red: 0.80, green: 0.65, blue: 0.30),
         text: Color(red: 0.92, green: 0.87, blue: 0.78),
-        subtle: Color(red: 0.55, green: 0.50, blue: 0.42),
+        subtle: Color(red: 0.58, green: 0.53, blue: 0.45),
         glow: Color(red: 0.80, green: 0.65, blue: 0.30).opacity(0.3)
     )
 
@@ -32,7 +32,7 @@ struct AppTheme: Identifiable, Equatable {
         card: Color(red: 0.10, green: 0.13, blue: 0.18),
         accent: Color(red: 0.45, green: 0.72, blue: 0.90),
         text: Color(red: 0.85, green: 0.90, blue: 0.95),
-        subtle: Color(red: 0.45, green: 0.50, blue: 0.58),
+        subtle: Color(red: 0.50, green: 0.55, blue: 0.62),
         glow: Color(red: 0.45, green: 0.72, blue: 0.90).opacity(0.3)
     )
 
@@ -45,7 +45,7 @@ struct AppTheme: Identifiable, Equatable {
         card: Color(red: 0.14, green: 0.09, blue: 0.09),
         accent: Color(red: 0.85, green: 0.30, blue: 0.20),
         text: Color(red: 0.90, green: 0.85, blue: 0.82),
-        subtle: Color(red: 0.55, green: 0.42, blue: 0.40),
+        subtle: Color(red: 0.58, green: 0.46, blue: 0.43),
         glow: Color(red: 0.85, green: 0.30, blue: 0.20).opacity(0.3)
     )
 
@@ -58,7 +58,7 @@ struct AppTheme: Identifiable, Equatable {
         card: Color(red: 0.13, green: 0.11, blue: 0.16),
         accent: Color(red: 0.95, green: 0.80, blue: 0.35),
         text: Color(red: 0.95, green: 0.92, blue: 0.85),
-        subtle: Color(red: 0.58, green: 0.52, blue: 0.48),
+        subtle: Color(red: 0.60, green: 0.55, blue: 0.50),
         glow: Color(red: 0.95, green: 0.80, blue: 0.35).opacity(0.3)
     )
 

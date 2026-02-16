@@ -13,13 +13,13 @@ extension Color {
 }
 
 extension Font {
-    /// New York serif for quote text display
-    static func quoteSerif(_ size: CGFloat) -> Font {
-        .system(size: size, design: .serif)
+    /// New York serif for quote text display — scales with Dynamic Type
+    static func quoteSerif(_ style: Font.TextStyle = .body) -> Font {
+        .system(style, design: .serif)
     }
 
-    /// SF Pro for UI chrome / metadata
-    static func uiText(_ size: CGFloat, weight: Font.Weight = .regular) -> Font {
-        .system(size: size, weight: weight, design: .default)
+    /// SF Pro for UI chrome / metadata — scales with Dynamic Type
+    static func uiText(_ style: Font.TextStyle = .body, weight: Font.Weight = .regular) -> Font {
+        .system(style, weight: weight)
     }
 }

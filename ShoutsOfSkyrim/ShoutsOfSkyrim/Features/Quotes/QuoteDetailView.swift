@@ -14,7 +14,7 @@ struct QuoteDetailView: View {
             VStack(alignment: .leading, spacing: 24) {
                 CategoryBadgeView(category: quote.category, theme: theme)
 
-                QuoteTextView(text: quote.text, theme: theme, size: 24)
+                QuoteTextView(text: quote.text, theme: theme, textStyle: .title2)
 
                 NPCBadgeView(name: quote.npcName, race: quote.npcRace, theme: theme)
 
@@ -22,16 +22,16 @@ struct QuoteDetailView: View {
                     Label(quote.location, systemImage: "mappin")
                     Label(quote.hold, systemImage: "map")
                 }
-                .font(.uiText(14))
+                .font(.uiText(.subheadline))
                 .foregroundStyle(theme.subtle)
 
                 if let quest = quote.questContext {
                     VStack(alignment: .leading, spacing: 4) {
                         Text("Quest")
-                            .font(.uiText(12, weight: .medium))
+                            .font(.uiText(.caption, weight: .medium))
                             .foregroundStyle(theme.subtle)
                         Text(quest)
-                            .font(.uiText(14))
+                            .font(.uiText(.subheadline))
                             .foregroundStyle(theme.text)
                     }
                     .padding(12)
@@ -40,6 +40,8 @@ struct QuoteDetailView: View {
                         RoundedRectangle(cornerRadius: 12)
                             .fill(theme.card)
                     )
+                    .accessibilityElement(children: .combine)
+                    .accessibilityLabel("Quest: \(quest)")
                 }
 
                 Spacer(minLength: 20)
@@ -53,7 +55,7 @@ struct QuoteDetailView: View {
                             quote.isFavorite ? "Favorited" : "Favorite",
                             systemImage: quote.isFavorite ? "heart.fill" : "heart"
                         )
-                        .font(.uiText(16, weight: .semibold))
+                        .font(.uiText(.callout, weight: .semibold))
                         .foregroundStyle(quote.isFavorite ? Color.red : theme.accent)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 14)
@@ -62,6 +64,8 @@ struct QuoteDetailView: View {
                                 .fill(theme.card)
                         )
                     }
+                    .accessibilityLabel(quote.isFavorite ? "Remove from favorites" : "Add to favorites")
+                    .accessibilityAddTraits(.isButton)
                 }
             }
             .padding(20)

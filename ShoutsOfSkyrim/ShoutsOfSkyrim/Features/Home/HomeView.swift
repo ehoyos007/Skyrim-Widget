@@ -29,7 +29,7 @@ struct HomeView: View {
     private func widgetPreview(theme: AppTheme) -> some View {
         VStack(spacing: 12) {
             Text("Current Widget")
-                .font(.uiText(13, weight: .medium))
+                .font(.uiText(.footnote, weight: .medium))
                 .foregroundStyle(theme.subtle)
                 .frame(maxWidth: .infinity, alignment: .leading)
 
@@ -41,13 +41,13 @@ struct HomeView: View {
                         QuoteTextView(
                             text: "I used to be an adventurer like you...",
                             theme: theme,
-                            size: 16
+                            textStyle: .callout
                         )
                         .lineLimit(3)
 
                         HStack {
                             Text("-- Guard")
-                                .font(.uiText(13, weight: .medium))
+                                .font(.uiText(.footnote, weight: .medium))
                                 .foregroundStyle(theme.accent)
                             Spacer()
                         }
@@ -58,6 +58,8 @@ struct HomeView: View {
                     RoundedRectangle(cornerRadius: 20)
                         .strokeBorder(theme.accent.opacity(0.2), lineWidth: 1)
                 )
+                .accessibilityElement(children: .combine)
+                .accessibilityLabel("Widget preview: I used to be an adventurer like you, by Guard")
         }
     }
 
@@ -83,15 +85,15 @@ struct HomeView: View {
     private func statCard(title: String, value: String, icon: String, theme: AppTheme) -> some View {
         VStack(spacing: 8) {
             Image(systemName: icon)
-                .font(.uiText(20))
+                .font(.uiText(.title3))
                 .foregroundStyle(theme.accent)
 
             Text(value)
-                .font(.uiText(28, weight: .bold))
+                .font(.uiText(.title, weight: .bold))
                 .foregroundStyle(theme.text)
 
             Text(title)
-                .font(.uiText(12, weight: .medium))
+                .font(.uiText(.caption, weight: .medium))
                 .foregroundStyle(theme.subtle)
         }
         .frame(maxWidth: .infinity)
@@ -100,13 +102,15 @@ struct HomeView: View {
             RoundedRectangle(cornerRadius: 16)
                 .fill(theme.card)
         )
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("\(title): \(value)")
     }
 
     @ViewBuilder
     private func addWidgetGuide(theme: AppTheme) -> some View {
         VStack(spacing: 12) {
             Text("Add a Widget")
-                .font(.uiText(16, weight: .semibold))
+                .font(.uiText(.callout, weight: .semibold))
                 .foregroundStyle(theme.text)
 
             VStack(alignment: .leading, spacing: 8) {
@@ -126,7 +130,7 @@ struct HomeView: View {
     @ViewBuilder
     private func guideStep(_ text: String, theme: AppTheme) -> some View {
         Text(text)
-            .font(.uiText(14))
+            .font(.uiText(.subheadline))
             .foregroundStyle(theme.subtle)
     }
 }
