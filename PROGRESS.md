@@ -381,3 +381,37 @@ Text assets done. Next: screenshots, TestFlight archive, App Store submission.
 Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
 All assets ready. Next: TestFlight archive, App Store submission.
 ```
+
+---
+
+### Session 8 — Feb 16, 2026
+**Focus**: Code signing setup, build fix, TestFlight attempt
+
+**Completed:**
+- Connected physical iPhone to Mac for device registration
+- Configured Signing & Capabilities in Xcode (team: ENZO DANILO HOYOS Personal Team)
+- Applied Xcode recommended settings (build phase rename, string catalog generation)
+- Fixed build error: `WidgetEntryView.swift` switch not exhaustive — added `case .systemExtraLarge` for new SDK widget family (reuses `LargeQuoteView`)
+- Build succeeded with signing on physical device
+
+**Blocked:**
+- Apple Developer Program license not yet approved/purchased — archive and upload to App Store Connect requires an active paid membership ($99/year)
+- Cannot proceed with TestFlight or App Store submission until license is active
+
+**Remaining (blocked on Apple Developer license):**
+- Phase 5: Performance profiling with Instruments (widget memory, battery)
+- Phase 6: TestFlight beta distribution (Archive → Upload → Add testers)
+- Phase 6: App Store submission (fill metadata, upload screenshots, submit)
+- 304 quotes manual accuracy review
+
+**Where we left off:**
+- Phases 0–5 nearly complete (5/6, performance profiling remains)
+- Phase 6 is 4/6 complete (text assets + screenshots done)
+- Code compiles and runs on physical device
+- **Blocker**: Apple Developer license pending — once approved, archive and upload to TestFlight
+
+**To resume next session:**
+```
+Read CONTEXT.md, TASKS.md, PLAN.md, and PROGRESS.md.
+Apple Developer license should be active. Next: Product > Archive, upload to App Store Connect, TestFlight.
+```

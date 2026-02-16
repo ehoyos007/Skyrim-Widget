@@ -13,6 +13,8 @@ struct WidgetEntryView: View {
             MediumQuoteView(entry: entry)
         case .systemLarge:
             LargeQuoteView(entry: entry)
+        case .systemExtraLarge:
+            LargeQuoteView(entry: entry)
         case .accessoryCircular:
             CircularQuoteView(entry: entry)
         case .accessoryRectangular:
