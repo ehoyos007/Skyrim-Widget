@@ -69,9 +69,9 @@
 
 ## Phase 6: App Store Preparation
 - [ ] App Store screenshots (all device sizes)
-- [ ] App description and keywords (ASO)
-- [ ] Privacy policy
-- [ ] Fan-project disclaimer
+- [x] App description and keywords (ASO) → `AppStore/AppStoreMetadata.md`
+- [x] Privacy policy → `AppStore/PrivacyPolicy.html`
+- [x] Fan-project disclaimer → `AppStore/ReviewNotes.md`
 - [ ] TestFlight beta distribution
 - [ ] App Store submission
 
